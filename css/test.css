@@ -1,0 +1,51 @@
+div.body{
+	height:1200px;
+	width: 750px;
+	margin:0 auto;
+	background-color:#dddddd;
+	border:2px solid #a1a1a1;
+	padding:10px 10px;
+	border-radius:40px;
+}
+div.head{
+	height:150px;
+	width:750px;
+	background-image:url("../images/Anime_Banner_v2_by_animeFushigi.jpg");
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+	border:2px solid #a1a1a1;
+	border-radius:40px 40px 0 0;
+	margin-bottom: 10px;
+}
+div.left{
+	float:left;
+	height:900px;
+	width: 170px;
+	background-color:green;
+	border-radius:25px;
+	padding:10px 10px;
+	margin-bottom:10px;
+}
+div.right{
+	float:right;
+	height:900px;
+	width:530px;
+	background-color:black;	
+	border-radius:25px;
+	padding:10px 10px;
+	margin-bottom:10px;
+}
+div.box{
+	float:left;
+	height:50px;
+	width:100%;
+	background-color:red;
+	margin-bottom:10px;
+}
+div.footer{
+	float:left;
+	height:50px;
+	width:100%;
+	background-color:gray;
+	border-radius:0 0 25px 25px;
+}

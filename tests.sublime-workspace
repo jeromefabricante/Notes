@@ -1,0 +1,427 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"teacher_agreement_file"
+			],
+			[
+				"tea",
+				"teacher_folder"
+			],
+			[
+				"teacher",
+				"teacher_agreement_accepted"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"co",
+				"context"
+			],
+			[
+				"erro",
+				"error_log"
+			],
+			[
+				"headers",
+				"headers"
+			],
+			[
+				"last_c",
+				"last_col"
+			],
+			[
+				"student",
+				"studentlevels"
+			],
+			[
+				"rece",
+				"receipt_actionGet"
+			],
+			[
+				"dis",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/evstatus/tmpl/agreement_volunteer.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/evstatus/tmpl/agreement_teacher.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/evstatus/tmpl/form.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/evstatus/tmpl/employment_status.php",
+		"/Users/Developer/WWW/jerome/templates/mynewtemplate/index.php",
+		"/Users/Developer/WWW/jerome/templates/mynewtemplate/templateDetails.xml",
+		"/Users/Developer/WWW/jerome/templates/atomic/component.php",
+		"/Users/Developer/WWW/jerome/templates/atomic/templateDetails.xml",
+		"/Users/Developer/WWW/jerome/templates/beez5/css/beez5_konqueror.css",
+		"/Users/Developer/WWW/jerome/templates/atomic/js/template.js",
+		"/Users/Developer/WWW/jerome/templates/atomic/css/template_ie.css",
+		"/Users/Developer/WWW/jerome/templates/atomic/css/index.html",
+		"/Users/Developer/WWW/jerome/configuration.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/evstatus/tmpl/policies.php",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/dashboard/tmpl/default.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/enrollment/tmpl/summary.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/controllers/toolbars/evstatus.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/evstatus/html.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/controllers/evstatus.php",
+		"/Users/Developer/WWW/sandbox/june/libraries/koowa/command/context.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/databases/rows/evstatus.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/controllers/toolbars/evstatus.php",
+		"/Users/Developer/WWW/sandbox/june/libraries/joomla/base/object.php",
+		"/Users/Developer/WWW/sandbox/june/libraries/koowa/http/request.php",
+		"/Users/Developer/WWW/sandbox/june/libraries/koowa/request/request.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/site/tmpl/form.php",
+		"/Users/Developer/WWW/sandbox/june/libraries/koowa/template/helper/select.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/controllers/site.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/controllers/toolbars/site.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/controllers/toolbars/default.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_default/controllers/toolbars/default.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_default/databases/rows/document.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_default/databases/rows/default.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/databases/rows/account.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/databases/schemas/account.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/evstatuses/tmpl/default_items.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/evstatus/html.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/controllers/evstatus.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/models/evstatuses.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/media/com_mcced/uploadify/test.php",
+		"/Users/Developer/WWW/sandbox/june/media/com_mcced/uploadify/uploadify.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/models/evstatuses.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/databases/rows/evstatus.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/teacher/tmpl/employment.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/site/tmpl/import.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/evstatuses/tmpl/sidebar.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/evstatuses/tmpl/default.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/evstatus/tmpl/agreement_volunteer.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/controllers/behaviors/uploadable.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/evstatus/tmpl/statuses.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/evstatus/tmpl/agreements.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/evstatus/tmpl/policies.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/accounts/tmpl/default_items.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/enrollment/tmpl/select_classes.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/dashboard/html.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/employstatus/tmpl/default.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/employstatus/tmpl/form.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/databases/documents/employstatuses.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/employstatuses/tmpl/default_items.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/databases/documents/evstatuses.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/databases/rows/teacher.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/employstatuses/tmpl/default.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/employstatuses/tmpl/default_items.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/install/mongo-default-data.js",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/employstatuses/tmpl/default.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/contacts/tmpl/default.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/classes/tmpl/site_class_list.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/databases/documents/holidays.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/holidays/tmpl/default_items.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/holidays/tmpl/default.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/holidays/tmpl/html.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/holidays/tmpl/html.php",
+		"/Users/Developer/WWW/sandbox/june/test.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/helpers/default.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/holidays/tmpl/default_items.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/classes/tmpl/sidebar.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/holidays/tmpl/sidebar.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/holidays/tmpl/default.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/classes/tmpl/default_items.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/classes/tmpl/merge.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/models/classsessions.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/controllers/site.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_default/views/xls.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/class/tmpl/roster_xls.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/classes/tmpl/default_xls.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/students/tmpl/default_xls.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/classes/xls.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/students/xls.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_mcced/views/class/xls.php",
+		"/Users/Developer/WWW/sandbox/june/components/com_default/views/xls.php",
+		"/Users/Developer/WWW/sandbox/june/libraries/joomla/document/xls/xls.php",
+		"/Users/Developer/Documents/MCCED-SANDBOX.sublime-project",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/views/classes/xls.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/databases/rows/class.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/controllers/toolbars/account.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/views/classes/tmpl/default_xls.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/views/classes/tmpl/default_items.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/views/class/tmpl/split_class.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_default/views/xls.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/views/classes/html.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/controllers/toolbars/class.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/install/install.testusers.sql",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/install/install.testusers.sql",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_default/databases/rows/document.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/views/program/tmpl/general.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/views/programs/tmpl/default_items.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/views/classes/tmpl/enrolments_class_list.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/databases/schemas/student.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/databases/schemas/class.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/databases/schemas/default.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_default/databases/schemas/abstract.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_default/databases/schemas/default.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/databases/schemas/classes.php",
+		"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced/databases/schemas/class.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/controllers/enrolment.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/views/enrolments/html.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/views/enrolments/tmpl/default_items.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/views/enrolments/tmpl/select_classes.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/views/enrolments/tmpl/select_site.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/views/accounts/tmpl/default_items.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/views/enrolments/tmpl/select_level.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/views/enrolments/tmpl/select_program.php",
+		"/Users/Developer/WWW/sandbox/mcced/libraries/koowa/object/array.php",
+		"/Users/Developer/WWW/sandbox/mcced/libraries/koowa/database/row/abstract.php",
+		"/Users/Developer/WWW/sandbox/mcced/libraries/koowa/config/config.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_default/databases/fields/commandchain.php",
+		"/Users/Developer/WWW/sandbox/mcced/components/com_mcced/models/sites.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			"/Users/Developer/WWW/PROJECTS/mcced/code/components/com_mcced"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Developer",
+			"localhost",
+			", ",
+			"'",
+			"cell_style",
+			"getAlignment()->setHorizontal(PHPExcel_Style_Alignment::HORIZONTAL_RIGHT)",
+			"$char++ . $row_index",
+			"$char++, ",
+			"$char, ",
+			"setCellValueByColumnAndRow",
+			"$column_index",
+			"$column_index++",
+			"$char++",
+			"setCellValueByColumnAndRow",
+			"$column_index++,",
+			"setCellValueByColumnAndRow",
+			"getRequest()->layout",
+			"addcommand",
+			"activate",
+			"wizdebug",
+			"j_",
+			"#__",
+			"}",
+			"Students",
+			"dispatcher"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\", \"",
+			"\"",
+			"border_box",
+			"setStyle($align_right)",
+			"$char . $row_index",
+			"$char++ . ",
+			"$char . ",
+			"setCellValue",
+			"$char",
+			"$char++",
+			"$char",
+			"setCellValue",
+			"$column_index++ .",
+			"setCellValue",
+			"#__",
+			"j_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"context",
+				"libraries/koowa/command/context.php"
+			],
+			[
+				"jobject",
+				"libraries/joomla/base/object.php"
+			],
+			[
+				"krequest",
+				"libraries/koowa/request/request.php"
+			],
+			[
+				"kreque",
+				"libraries/koowa/http/request.php"
+			],
+			[
+				"comdefaultcontrollertoolbardefault",
+				"components/com_default/controllers/toolbars/default.php"
+			],
+			[
+				"commccedcontrollertoolbardefault",
+				"components/com_mcced/controllers/toolbars/default.php"
+			],
+			[
+				"comdefaultdatabaserowdocument",
+				"components/com_default/databases/rows/document.php"
+			],
+			[
+				"comdefaultdatabaserowdefault",
+				"components/com_default/databases/rows/default.php"
+			],
+			[
+				"commcceddatabaserowaccount",
+				"components/com_mcced/databases/rows/account.php"
+			],
+			[
+				"ktemplatehelperselect",
+				"libraries/koowa/template/helper/select.php"
+			],
+			[
+				"upl",
+				"components/com_mcced/controllers/behaviors/uploadable.php"
+			],
+			[
+				"comdefaultdatabaseschemaabstract",
+				"components/com_default/databases/schemas/abstract.php"
+			],
+			[
+				"comdefaultdatabaseschemadefault",
+				"components/com_default/databases/schemas/default.php"
+			],
+			[
+				"kconfig",
+				"libraries/koowa/config/config.php"
+			],
+			[
+				"kobjectarray",
+				"libraries/koowa/object/array.php"
+			],
+			[
+				"kdatabaserowab",
+				"libraries/koowa/database/row/abstract.php"
+			],
+			[
+				"commcceddatabaseschemadefault",
+				"components/com_mcced/databases/schemas/default.php"
+			],
+			[
+				"comdefaultdatabasefieldcommandchain",
+				"components/com_default/databases/fields/commandchain.php"
+			],
+			[
+				"ktemplatehelperlistbox",
+				"libraries/koowa/template/helper/listbox.php"
+			],
+			[
+				"comdefaulttemplatehelperselect",
+				"components/com_default/templates/helpers/select.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true
+}
